@@ -1,0 +1,1 @@
+Read the chapter in your class textbook that covers the topics in this section.

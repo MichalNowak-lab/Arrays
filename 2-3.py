@@ -1,8 +1,5 @@
 # Weekly expenses for different categories
 # [Food, Transport, Utilities]
-from xmlrpc.client import Transport
-
-from sphinx.addnodes import index
 
 monthly_expenses = [
    [200, 50, 100],  # Week 1
